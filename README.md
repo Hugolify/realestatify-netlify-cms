@@ -15,7 +15,6 @@
 - rubrics `create false`
 - pages
 - realestates
-  - persons (realestates taxonomy)
   - sellers (realestates taxonomy)
   - types (realestates taxonomy)
 - persons
