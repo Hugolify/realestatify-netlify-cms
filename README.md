@@ -19,7 +19,7 @@
   - sellers (realestates taxonomy)
   - types (realestates taxonomy)
 - persons
-- offices
+- places
 - config
   - menu `create false`
     - primary
