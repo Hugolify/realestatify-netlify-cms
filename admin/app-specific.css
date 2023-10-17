@@ -4,10 +4,10 @@
     --primary-color: #012f02;
 }
 
-/* [class*="-CustomIconWrapper"] img {
+[class*="-CustomIconWrapper"] img {
     height: 20px;
     width: auto;
-} */
+}
 
 aside [href="#/collections/persons_statutes"] span::before {
     content: '\F8A7';
