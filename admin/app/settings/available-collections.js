@@ -1,11 +1,11 @@
 import realestates from '../content/realestates.js'
-import realestates_types from '../content/realestates_types.js'
+import realestates_categories from '../content/realestates_categories.js'
 import places from '../content/places.js'
 import persons from '../content/persons.js'
 
 export default [
     realestates,
-    realestates_types,
+    realestates_categories,
     places,
     persons
 ]
